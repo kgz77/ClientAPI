@@ -1,4 +1,4 @@
-# ClientAPI
+# ClientAPI C# .Net Core 7 | Database Postgresql
 Валидации:
 1) Проверка на полей пустоту
 2) Проверка имени на содержание только букв
